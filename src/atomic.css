@@ -1,0 +1,136 @@
+.typography-font-size-12px {
+    font-size: 12px;
+}
+
+.typography-font-size-14px {
+    font-size: 14px;
+}
+
+.typography-font-size-16px {
+    font-size: 16px;
+}
+
+.typography-font-style-italic {
+    font-style: italic;
+}
+
+.typography-line-height-1.75 {
+    line-height: 1.75;
+}
+
+.typography-text-decoration-underline {
+    text-decoration: underline;
+}
+
+.typography-color-orange {
+    color: orange;
+}
+
+.typography-color-\#002f36 {
+    color: #002f36;
+}
+
+.typography-color-\#008296 {
+    color: #008296;
+}
+
+.typography-color-\#c7511f {
+    color: #c7511f;
+}
+
+.typography-color-\#f1f1f1 {
+    color: #f1f1f1;
+}
+
+.typography-background-color-\#f6f6f6 {
+    background-color: #f6f6f6;
+}
+
+.typography-background-color-\#1196ab {
+    background-color: #1196ab;
+}
+
+.typography-background-color-\#c7511f {
+    background-color: #c7511f;
+}
+
+.typography-background-color-\#f1f1f1 {
+    background-color: #f1f1f1;
+}
+
+.flex {
+    display: flex;
+}
+
+.layout-display-block {
+    display: block;
+}
+
+.layout-flex-direction-column {
+    flex-direction: column;
+}
+
+.layout-justify-content-center {
+    justify-content: center;
+}
+
+.layout-justify-content-sb {
+    justify-content: space-between;
+}
+
+.layout-align-items-center {
+    align-items: center;
+}
+
+.flex-1 {
+    flex: 1;
+}
+
+.sp-p-t-10px {
+    padding-top: 10px;
+}
+
+.sp-p-t-15px {
+    padding-top: 15px;
+}
+
+.sp-p-t-20px {
+    padding-top: 20px;
+}
+
+.sp-p-l-10px {
+    padding-left: 10px;
+}
+
+.sp-p-l-15px {
+    padding-left: 15px;
+}
+
+.sp-p-l-20px {
+    padding-left: 20px;
+}
+
+.sp-margin-top-10px {
+    margin-top: 10px;
+}
+
+.sp-margin-top-15px {
+    margin-top: 15px;
+}
+
+.sp-margin-top-20px {
+    margin-top: 20px;
+}
+
+.sp-margin-left-10px {
+    margin-left: 10px;
+}
+
+.sp-margin-left-15px {
+    margin-left: 15px;
+}
+
+.sp-margin-left-20px {
+    margin-left: 20px;
+}
+
