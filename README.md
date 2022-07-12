@@ -10,6 +10,8 @@ In the project directory, you can run:
 
 -   Generate the atomic css.
 
+> For more detail about this, you could take a look at the atomic.css under the directory src.
+
 ### `npm start`
 
 -   Runs the app in the development mode.
